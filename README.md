@@ -1,5 +1,5 @@
 # Writing Brush
-👉Introduction👈  
+【Introduction】  
 Exercise writing brush
 
 ![](Assets/Scenes/pigYear%201.png)
